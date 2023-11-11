@@ -1,0 +1,17 @@
+#solid{
+    background-color: #4364c4;
+}
+.personInfo{
+    display: flex;
+    width: 67%;
+    padding: 50px 0;
+    margin: auto;
+    justify-content: space-between;
+}
+.personInfo img{
+    width: 40%;
+}
+.dayPersonText{
+    color: #fff;
+    width: 50%;
+}

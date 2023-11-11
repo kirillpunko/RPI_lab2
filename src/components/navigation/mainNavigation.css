@@ -1,0 +1,13 @@
+.navBlock{
+    display: flex;
+    justify-content: space-between;
+}
+.navRef{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 20px;
+}

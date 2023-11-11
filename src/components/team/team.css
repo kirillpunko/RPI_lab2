@@ -1,0 +1,7 @@
+.team_block{
+    display: flex;
+    width: 70%;
+    padding-top: 70px;
+    margin: auto;
+    flex-wrap: wrap;
+}

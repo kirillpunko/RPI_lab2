@@ -1,0 +1,10 @@
+.blockPhotos{
+    text-align: center;
+    display: flex;
+    width: 71%;
+    margin: 0 auto 55px;
+}
+.blockPhotos img{
+    height: 200px;
+    margin: 0 30px;
+}

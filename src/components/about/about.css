@@ -1,0 +1,9 @@
+.aboutText{
+    text-align: center;
+    color: #686b6b;
+    width: 70%;
+    font-size: 18px;
+    margin: 50px auto 80px;
+    line-height: 30px;
+    letter-spacing: 1px;
+}

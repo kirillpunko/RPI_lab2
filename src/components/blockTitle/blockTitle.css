@@ -1,0 +1,15 @@
+.titleBlock{
+    text-align: center;
+    padding-top: 50px;
+}
+.white{
+    color: white;
+}
+.section_subtitle{
+    font-size: 30px;
+    font-family: 'Edu TAS Beginner', cursive;
+}
+.section_title{
+    font-size: 45px;
+    font-weight: bold;
+}
