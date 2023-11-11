@@ -1,0 +1,19 @@
+.navWin{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+}
+.navRefWin{
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0 20px;
+}
+#filled-hidden-label-small{
+    color: white;
+    background-color: #263594;
+    margin-top: -5px;
+}
