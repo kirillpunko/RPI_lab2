@@ -1,0 +1,16 @@
+.photoBlock{
+    width: 30%;
+    padding: 20px;
+    color: #333333;
+    box-sizing: border-box;
+}
+.photoBlock img{
+    margin: 20px 0;
+    width: 100%;
+    height: auto;
+}
+.pesonAge{
+    font-size: 25px;
+    text-align: center;
+
+}

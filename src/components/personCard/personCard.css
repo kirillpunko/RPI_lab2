@@ -1,3 +1,7 @@
 #personCard{
     margin-bottom: 40px;
 }
+.links{
+    text-decoration: none;
+    color: black;
+}

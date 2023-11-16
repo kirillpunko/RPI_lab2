@@ -7,11 +7,11 @@
     border-right: 1px solid #4364c4;
     text-decoration: none;
     color: #fff;
-    font-size: 30px;
+    font-size: 40px;
     padding: 12px 10px;
     line-height: 1;
-    width: 55px;
-    height: 55px;
+    width: 45px;
+    height: 40px;
     transition: background-color .1s linear, color .1s linear ;
 }
 .social_item:last-child{

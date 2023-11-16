@@ -10,3 +10,7 @@ html, body {
     font-family: 'Montserrat', sans-serif;
     background-color: #e8faf9;
 }
+.personPageBlock{
+    display: flex;
+    justify-content: space-around;
+}

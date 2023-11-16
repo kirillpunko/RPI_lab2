@@ -8,9 +8,15 @@ interface pictures {
 const SectionPhotos = (props: pictures) => {
   return (
     <div className="blockPhotos">
-      <img src={props.photo1} alt="section photo 1" />
-      <img src={props.photo2} alt="section photo 2" />
-      <img src={props.photo3} alt="section photo 3" />
+      <div className="blockItem">
+        <img src={props.photo1} alt="section photo 1" />
+      </div>
+      <div className="blockItem">
+        <img src={props.photo2} alt="section photo 2" />
+      </div>
+      <div className="blockItem">
+        <img src={props.photo3} alt="section photo 3" />
+      </div>
     </div>
   );
 };

@@ -6,22 +6,29 @@ import {
   Typography,
 } from "@mui/material";
 import "./personCard.css";
+import { useNavigate } from "react-router-dom";
 
 interface tPerson {
   name: string;
   photo: string;
   age: number;
   description: string;
+  id: number;
 }
 
 const PersonCard = (person: tPerson) => {
+  const navigate = useNavigate();
   return (
-    <Card id="personCard" sx={{ maxWidth: 700 }}>
-      <CardActionArea>
+    <Card id="personCard" sx={{ width: 0.48 }}>
+      <CardActionArea
+        onClick={() => {
+          navigate(`/winners/${person.id}`);
+        }}
+      >
         <CardMedia
           component="img"
-          height="400"
-          image="/public/photos/polinaGagarina.jpg"
+          height="auto"
+          image={"/public/photos/" + person.photo}
           alt="photo"
         />
         <CardContent>

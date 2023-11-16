@@ -3,10 +3,11 @@
     display: flex;
     justify-content: space-around;
     flex-wrap: wrap;
-    width: 80%;
-    margin: 0 auto 55px;
+    width: 100%;
+    margin: 0 auto -15px;
 }
 .blockPhotos img{
-    height: 200px;
-    margin: 0 15px 30px;
+    height: 250px;
+    width: 100%;
+    margin-bottom: 20px;
 }

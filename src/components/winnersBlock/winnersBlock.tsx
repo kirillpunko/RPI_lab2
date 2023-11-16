@@ -1,15 +1,20 @@
-import personsJson from "../../assets/persons.json";
+import personsEnJson from "../../assets/personsEn.json";
+import personsRuJson from "../../assets/personsRu.json";
 import PersonCard from "../personCard/personCard.tsx";
 import "./winnersBlock.css";
+import { useTranslation } from "react-i18next";
+import i18next from "i18next";
 interface tData {
   name: string;
   photo: string;
   age: number;
   description: string;
+  id: number;
 }
 
 const WinnersBlock = () => {
-  const persons = personsJson;
+  const { t } = useTranslation();
+  const persons = t("persons", { returnObjects: true });
   let index = 0;
   return (
     <div className="winnersBlock">
@@ -20,6 +25,7 @@ const WinnersBlock = () => {
           age={data.age}
           description={data.description}
           key={index++}
+          id={data.id}
         />
       ))}
     </div>

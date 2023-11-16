@@ -1,22 +1,41 @@
 import BlockTitle from "../blockTitle/blockTitle.tsx";
 import "./dayPerson.css";
-import personsJson from "../../assets/persons.json";
 import { Card, CardActionArea, Typography } from "@mui/material";
+import { useNavigate } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
 function getRandom(persons: any): number {
   return Math.floor(Math.random() * persons.length);
 }
 
 const DayPerson = () => {
-  const persons = personsJson;
-  const id = getRandom(persons);
+  const { t } = useTranslation();
+
+  const persons = t("persons", { returnObjects: true });
+  const data = new Date();
+  let id = Number(localStorage.getItem("dayId")) || 0;
+  const day = data.getDate();
+  if (day != Number(localStorage.getItem("oldData"))) {
+    id = getRandom(persons);
+    localStorage.setItem("oldData", String(day));
+    localStorage.setItem("dayId", String(id));
+  } else {
+    id = Number(localStorage.getItem("dayId"));
+  }
+  console.log(data.getDate());
+  const navigate = useNavigate();
+
   return (
-    <Card id="solid">
-      <CardActionArea>
+    <Card id="dayPerson">
+      <CardActionArea
+        onClick={() => {
+          navigate(`/winners/${id + 1}`);
+        }}
+      >
         <BlockTitle
           color={"white"}
-          textTitle={"Person of the day"}
-          subtext={"Who is it today"}
+          textTitle={t("dayPerson-title")}
+          subtext={t("dayPerson-subtitle")}
         />
         <div className="personInfo">
           <img
@@ -28,7 +47,7 @@ const DayPerson = () => {
               {persons[id].name}
             </Typography>
             <Typography gutterBottom variant="h6" component="div">
-              Возраст: {persons[id].age}
+              Age: {persons[id].age}
             </Typography>
             <Typography variant="body1">{persons[id].description}</Typography>
           </div>

@@ -1,49 +1,51 @@
 import TeamPerson from "../teamPerson/teamPerson.tsx";
 import "./team.css";
 import BlockTitle from "../blockTitle/blockTitle.tsx";
+import { useTranslation } from "react-i18next";
 const Team = () => {
+  const { t } = useTranslation();
   return (
-    <div>
+    <section id="sectionContact">
       <BlockTitle
         color={"black"}
-        textTitle={"Meet our team"}
-        subtext={"Who we are"}
+        textTitle={t("team-title")}
+        subtext={t("team-subtitle")}
       />
       <div className="team_block">
         <TeamPerson
           photo={"team1.jpg"}
-          name={"Kirill Punko"}
-          work={"Web developer"}
+          name={t("team1-name")}
+          work={t("team1-prof")}
           git={"https://github.com/kirillpunko"}
           inst={"#"}
           twit={""}
         />
         <TeamPerson
           photo={"team2.jpg"}
-          name={"Vadim Troiskiy"}
-          work={"Project manager"}
+          name={t("team2-name")}
+          work={t("team2-prof")}
           git={"#"}
           inst={"#"}
           twit={"#"}
         />
         <TeamPerson
           photo={"team3.jpg"}
-          name={"Denis Shpitalenkov"}
-          work={"Backend developer"}
+          name={t("team3-name")}
+          work={t("team3-prof")}
           git={"#"}
           inst={"#"}
           twit={"#"}
         />
         <TeamPerson
           photo={"team4.jpg"}
-          name={"Evgeniy Belyackiy"}
-          work={"UI/UX designer"}
+          name={t("team4-name")}
+          work={t("team4-prof")}
           git={"#"}
           inst={"#"}
           twit={"#"}
         />
       </div>
-    </div>
+    </section>
   );
 };
 
