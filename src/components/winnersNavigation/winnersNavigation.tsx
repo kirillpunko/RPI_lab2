@@ -2,7 +2,6 @@ import { TextField } from "@mui/material";
 import "./winnersNavigation.css";
 import { Link, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
-import personsJson from "../../assets/personsEn.json";
 import { useTranslation } from "react-i18next";
 
 interface person {

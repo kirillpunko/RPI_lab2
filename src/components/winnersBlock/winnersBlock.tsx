@@ -1,9 +1,7 @@
-import personsEnJson from "../../assets/personsEn.json";
-import personsRuJson from "../../assets/personsRu.json";
 import PersonCard from "../personCard/personCard.tsx";
 import "./winnersBlock.css";
 import { useTranslation } from "react-i18next";
-import i18next from "i18next";
+
 interface tData {
   name: string;
   photo: string;
