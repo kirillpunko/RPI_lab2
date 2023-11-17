@@ -5,3 +5,8 @@
     text-decoration: none;
     color: black;
 }
+@media (max-width: 750px) {
+    #personCard{
+        width: 100%;
+    }
+}

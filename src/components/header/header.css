@@ -15,4 +15,10 @@
     color: white;
     font-family: 'Montserrat', sans-serif;
     cursor: pointer;
+    position: relative;
+    z-index: 10;
+}
+.mainHeader img{
+    position: relative;
+    z-index: 10;
 }

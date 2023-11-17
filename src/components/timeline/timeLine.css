@@ -1,3 +1,10 @@
 .timeLineBlock{
-    width: 60%;
+    width: 50%;
+    height: 700px;
+}
+@media (max-width: 900px) {
+    .timeLineBlock{
+        width: 95%;
+        margin-top: 60px;
+    }
 }

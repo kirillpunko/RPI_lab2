@@ -71,40 +71,56 @@ const WinnersNavigation = () => {
   }, []);
 
   return (
-    <nav className="navWin">
-      <div className="searchBlock">
-        <TextField
-          fullWidth={true}
-          hiddenLabel
-          id="filled-hidden-label-small"
-          placeholder={t("winners-nav-placeholder")}
-          variant="filled"
-          size="small"
-          value={inputValue}
-          onChange={handleInputChange}
-          onFocus={handleInputFocus}
-          onBlur={handleInputBlur}
-        />
-        <ul className="tipsBlock">
-          {(showHints || isFocused) &&
-            suggestions.map((suggestion, index) => (
-              <li
-                className="tip"
-                key={index}
-                onClick={() => {
-                  localStorage.setItem("lastPerson", suggestion.name);
-                  navigate(`/RPI_lab2/winners/${suggestion.id}`);
-                }}
-              >
-                {suggestion.name}
-              </li>
-            ))}
-        </ul>
-      </div>
-      <Link to={"/RPI_lab2/"} className="navRefWin">
-        {t("winners-nav-tomain")}
-      </Link>
-    </nav>
+    <div>
+      <nav className="navWin">
+        <Link to={"/RPI_lab2/"} className="navRefWin">
+          {t("winners-nav-tomain")}
+        </Link>
+        <div className="searchBlock">
+          <TextField
+            fullWidth={true}
+            hiddenLabel
+            id="filled-hidden-label-small"
+            placeholder={t("winners-nav-placeholder")}
+            variant="filled"
+            size="small"
+            value={inputValue}
+            onChange={handleInputChange}
+            onFocus={handleInputFocus}
+            onBlur={handleInputBlur}
+          />
+          <ul className="tipsBlock">
+            {(showHints || isFocused) &&
+              suggestions.map((suggestion, index) => (
+                <li
+                  className="tip"
+                  key={index}
+                  onClick={() => {
+                    localStorage.setItem("lastPerson", suggestion.name);
+                    navigate(`/RPI_lab2/winners/${suggestion.id}`);
+                  }}
+                >
+                  {suggestion.name}
+                </li>
+              ))}
+          </ul>
+        </div>
+      </nav>
+      <button
+        className="nav-toggle-win"
+        id="nav-toggle2"
+        type="button"
+        onClick={() => {
+          const nav = document.querySelector(".navWin") || document.body;
+          const toggle =
+            document.querySelector("#nav-toggle2") || document.body;
+          nav.classList.toggle("active");
+          toggle.classList.toggle("active");
+        }}
+      >
+        <span className="nav-toggle_item-win">menu</span>
+      </button>
+    </div>
   );
 };
 

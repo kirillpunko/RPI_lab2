@@ -7,7 +7,7 @@ interface personId {
 const TimeLine = ({ id }: personId) => {
   const timeLineItems = timelineJson;
   return (
-    <div style={{ width: "800px", height: "700px" }}>
+    <div className="timeLineBlock">
       <Chrono items={timeLineItems[id].items} mode="VERTICAL_ALTERNATING" />
     </div>
   );

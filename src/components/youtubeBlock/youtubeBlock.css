@@ -1,3 +1,28 @@
+.youtubeFrame{
+    width: 700px;
+    height: 380px;
+}
 .youtubeBlock{
     text-align: center;
+}
+@media (max-width: 900px){
+    .youtubeFrame{
+        width: 80%;
+        height: 350px;
+    }
+}
+@media (max-width: 670px) {
+    .youtubeFrame{
+        height: 250px;
+    }
+}
+@media (max-width: 520px) {
+    .youtubeFrame{
+        height: 210px;
+    }
+}
+@media (max-width: 520px) {
+    .youtubeFrame{
+        height: 180px;
+    }
 }

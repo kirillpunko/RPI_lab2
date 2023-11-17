@@ -94,3 +94,16 @@
 .card_all{
     width: 50%;
 }
+@media(max-width: 1000px){
+    .card_all{
+        width: 100%
+    }
+}
+@media(max-width:620px){
+    .team_job{
+        margin-bottom: 50px;
+    }
+    .card_item{
+        width: 100%
+    }
+}

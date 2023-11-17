@@ -1,11 +1,4 @@
-.navBlock{
-    display: flex;
-    justify-content: space-between;
-}
-.navAll{
-    overflow: hidden;
-}
-.navRef{
+.navRefPer{
     text-transform: uppercase;
     font-weight: bold;
     text-decoration: none;
@@ -13,9 +6,8 @@
     font-size: 20px;
     line-height: 30px;
     margin: 0 20px;
-    cursor: pointer;
 }
-.nav-toggle{
+.nav-toggle3{
     display: none;
     position: absolute;
     top: 15px;
@@ -29,10 +21,10 @@
     background: none;
     cursor: pointer;
 }
-.nav-toggle:focus{
+.nav-toggle3:focus{
     outline: 0;
 }
-.nav-toggle_item{
+.nav-toggle_item3{
     display: block;
     width: 100%;
     height: 3px;
@@ -45,12 +37,12 @@
     margin: auto;
     transition: background-color .2s linear;
 }
-.nav-toggle.active .nav-toggle_item{
+.nav-toggle3.active .nav-toggle_item3{
     background: none;
 }
 
-.nav-toggle_item::before,
-.nav-toggle_item::after{
+.nav-toggle_item3::before,
+.nav-toggle_item3::after{
     content: "";
     width: 100%;
     height: 3px;
@@ -60,27 +52,26 @@
     z-index: 1;
     transition: all .2s linear;
 }
-.nav-toggle_item::before{
+.nav-toggle_item3::before{
     top: -10px;
 }
-.nav-toggle_item::after{
+.nav-toggle_item3::after{
     bottom: -10px;
 }
 
-.nav-toggle.active .nav-toggle_item::before{
+.nav-toggle3.active .nav-toggle_item3::before{
     transform-origin: left top;
     transform: rotate(45deg) translateY(-5px) translateX(0px);
 }
-.nav-toggle.active .nav-toggle_item::after{
+.nav-toggle3.active .nav-toggle_item3::after{
     transform-origin: left bottom;
     transform: rotate(-45deg) translateY(5px) translateX(0px);
 }
-
-@media (max-width:1000px) {
-    .nav-toggle{
+@media (max-width: 620px) {
+    .nav-toggle3{
         display: block;
     }
-    .navBlock{
+    .navBlockPer{
         display: block;
         transition: all linear 0.3s;
         width: 100%;
@@ -91,10 +82,10 @@
 
         background-color: #4364c4;
     }
-    .navBlock.active{
+    .navBlockPer.active{
         right:0;
     }
-    .navRef{
+    .navRefPer{
         display: block;
         margin: 0;
         padding: 20px 20px;

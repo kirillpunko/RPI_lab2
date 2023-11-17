@@ -6,8 +6,7 @@ const YoutubeBlock = (reference: ref) => {
   return (
     <section className="youtubeBlock">
       <iframe
-        width="700"
-        height="380"
+        className="youtubeFrame"
         src={reference.reference}
         title="YouTube video player"
         frameBorder="0"

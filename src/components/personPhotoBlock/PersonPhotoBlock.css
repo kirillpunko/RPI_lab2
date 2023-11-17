@@ -14,3 +14,20 @@
     text-align: center;
 
 }
+@media (max-width: 1200px){
+    .photoBlock{
+        width: 40%;
+    }
+}
+@media (max-width: 900px){
+    .photoBlock{
+        width: 70%;
+        order: -1;
+    }
+}
+@media (max-width: 550px){
+    .photoBlock{
+        width: 90%;
+        order: -1;
+    }
+}

@@ -11,3 +11,11 @@
     width: 100%;
     margin-bottom: 20px;
 }
+@media (max-width: 620px){
+    .blockPhotos img{
+        margin: 0 -10px 20px;
+        padding: 0 30px;
+        height: auto;
+        width: 80%;
+    }
+}

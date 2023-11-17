@@ -7,7 +7,7 @@ import PersonPage from "./pages/personPage.tsx";
 
 const App = () => {
   return (
-    <main>
+    <main className="page">
       <Routes>
         <Route path="/RPI_lab2/winners" element={<Winnerspage />}></Route>
         <Route path="/RPI_lab2" element={<Mainpage />}></Route>

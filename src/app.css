@@ -12,5 +12,11 @@ html, body {
 }
 .personPageBlock{
     display: flex;
+    flex-wrap: wrap;
+
     justify-content: space-around;
+}
+.page{
+    position: relative;
+    overflow-x: hidden;
 }

@@ -15,3 +15,22 @@
     color: #fff;
     width: 50%;
 }
+@media (max-width: 1000px) {
+    .personInfo{
+        flex-wrap: wrap;
+        text-align: center;
+        width: 60%;
+    }
+    .dayPersonText{
+        width: 100%;
+    }
+    .personInfo img{
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 620px){
+    .personInfo{
+        width: 80%;
+    }
+}

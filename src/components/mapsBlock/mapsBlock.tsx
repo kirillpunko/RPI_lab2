@@ -8,7 +8,6 @@ const MapsBlock = (ref: reference) => {
       <iframe
         className="mapFrame"
         src={ref.reference}
-        width="800"
         height="450"
         allowFullScreen={true}
         loading="lazy"

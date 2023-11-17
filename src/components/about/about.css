@@ -10,3 +10,9 @@
 #sectionAbout{
     margin-bottom: 50px;
 }
+@media(max-width: 620px){
+    .aboutText{
+        width: 90%;
+    }
+}
+
