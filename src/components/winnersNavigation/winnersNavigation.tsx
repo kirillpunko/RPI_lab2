@@ -93,7 +93,7 @@ const WinnersNavigation = () => {
                 key={index}
                 onClick={() => {
                   localStorage.setItem("lastPerson", suggestion.name);
-                  navigate(`/winners/${suggestion.id}`);
+                  navigate(`/RPI_lab2/winners/${suggestion.id}`);
                 }}
               >
                 {suggestion.name}
@@ -101,7 +101,7 @@ const WinnersNavigation = () => {
             ))}
         </ul>
       </div>
-      <Link to={"/"} className="navRefWin">
+      <Link to={"/RPI_lab2/"} className="navRefWin">
         {t("winners-nav-tomain")}
       </Link>
     </nav>

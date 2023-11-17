@@ -5,10 +5,10 @@ const PersonNavigation = () => {
   const { t } = useTranslation();
   return (
     <div>
-      <Link className="navRef" to={"/"}>
+      <Link className="navRef" to={"/RPI_lab2/"}>
         {t("personPage-nav-tomain")}
       </Link>
-      <Link className="navRef" to={"/winners"}>
+      <Link className="navRef" to={"/RPI_lab2/winners"}>
         {t("personPage-nav-back")}
       </Link>
     </div>

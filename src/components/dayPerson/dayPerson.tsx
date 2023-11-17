@@ -29,7 +29,7 @@ const DayPerson = () => {
     <Card id="dayPerson">
       <CardActionArea
         onClick={() => {
-          navigate(`/winners/${id + 1}`);
+          navigate(`/RPI_lab2/winners/${id + 1}`);
         }}
       >
         <BlockTitle

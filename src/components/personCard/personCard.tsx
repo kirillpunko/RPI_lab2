@@ -22,7 +22,7 @@ const PersonCard = (person: tPerson) => {
     <Card id="personCard" sx={{ width: 0.48 }}>
       <CardActionArea
         onClick={() => {
-          navigate(`/winners/${person.id}`);
+          navigate(`/RPI_lab2/winners/${person.id}`);
         }}
       >
         <CardMedia
