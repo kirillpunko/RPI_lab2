@@ -22,7 +22,7 @@ const handleLangSwitch = () => {
 const Header = (props: type) => {
   return (
     <header className="mainHeader">
-      <img src="../photos/logo2.png" alt="logo" />
+      <img src={require("/photos/logo2.png")} alt="logo" />
       {props.type === "main" ? (
         <MainNavigation />
       ) : props.type === "winners" ? (
