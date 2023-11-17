@@ -28,7 +28,7 @@ const PersonCard = (person: tPerson) => {
         <CardMedia
           component="img"
           height="auto"
-          image={"/public/photos/" + person.photo}
+          image={"photos/" + person.photo}
           alt="photo"
         />
         <CardContent>

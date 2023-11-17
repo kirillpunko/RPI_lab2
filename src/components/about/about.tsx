@@ -14,9 +14,9 @@ const About = () => {
       />
       <div className="aboutText">{t("about-text")}</div>
       <SectionPhotos
-        photo1={"/public/photos/about1.jpg"}
-        photo2={"/public/photos/about2.jpg"}
-        photo3={"/public/photos/about3.jpg"}
+        photo1={"photos/about1.jpg"}
+        photo2={"photos/about2.jpg"}
+        photo3={"photos/about3.jpg"}
       />
     </section>
   );

@@ -41,7 +41,7 @@ const TeamPerson = (props: person) => {
               </a>
             </div>
           </div>
-          <img src={"/public/photos/" + props.photo} alt="" />
+          <img src={"photos/" + props.photo} alt="" />
         </div>
       </div>
       <div className="team_name">{props.name}</div>

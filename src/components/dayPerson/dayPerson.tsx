@@ -38,10 +38,7 @@ const DayPerson = () => {
           subtext={t("dayPerson-subtitle")}
         />
         <div className="personInfo">
-          <img
-            src={"/public/photos/" + persons[id].photo}
-            alt="person of the day"
-          />
+          <img src={"photos/" + persons[id].photo} alt="person of the day" />
           <div className="dayPersonText">
             <Typography gutterBottom variant="h4" component="div">
               {persons[id].name}

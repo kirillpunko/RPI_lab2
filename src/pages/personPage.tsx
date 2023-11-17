@@ -22,7 +22,7 @@ const PersonPage = () => {
       <div className="personPageBlock">
         <TimeLine id={paramsId} />
         <PersonPhotoBlock
-          photo={persons[paramsId].avatar || "../../public/photos/icon1/jpg"}
+          photo={persons[paramsId].avatar || "photos/icon1/jpg"}
           age={persons[paramsId].age}
           id={paramsId}
           name={persons[paramsId].name}
