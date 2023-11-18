@@ -33,7 +33,7 @@
         {
             "name": "Polina Gagarina",
             "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
+            "description": "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
             "photo": "polinaGagarina.jpg",
             "avatar": "/polinaGagarina/ava.jpg",
             "id": 1,
@@ -41,7 +41,51 @@
             "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
             "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
             "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [
+                {
+                    "title": "1987-2002",
+                    "cardTitle": "childhood and youth",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
+                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                },
+                {
+                    "title": "1987-2002",
+                    "cardTitle": "childhood and youth",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
+                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                },
+                {
+                    "title": "1987-2002",
+                    "cardTitle": "childhood and youth",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
+                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                },
+                {
+                    "title": "1987-2002",
+                    "cardTitle": "childhood and youth",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
+                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                },
+                {
+                    "title": "1987-2002",
+                    "cardTitle": "childhood and youth",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
+                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                },
+                {
+                    "title": "1987-2002",
+                    "cardTitle": "childhood and youth",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
+                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                }
+            ]
         },
         {
             "name": "Alla Pugacheva",
