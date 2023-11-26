@@ -40,9 +40,9 @@ const Team = () => {
           photo={"team4.jpg"}
           name={t("team4-name")}
           work={t("team4-prof")}
-          git={"#"}
-          inst={"#"}
-          twit={"#"}
+          git={"https://github.com/Evgenuch"}
+          inst={"https://www.instagram.com/sadf1nn"}
+          twit={"https://twitter.com/soulYo_0"}
         />
       </div>
     </section>
