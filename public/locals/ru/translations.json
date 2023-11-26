@@ -41,43 +41,141 @@
             "galerrey1": "/public/photos/personsPages/polinaGagarina/1.jpeg",
             "galerrey2": "/public/photos/personsPages/polinaGagarina/2.jpg",
             "galerrey3": "/public/photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+              "title": "1987—2002",
+              "cardTitle": "Детство и юность",
+              "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+              "cardSubtitle":"Родилась 27 марта 1987 года",
+              "cardDetailedText": "Родилась 27 марта 1987 года в Москве, детство провела в Греции. На одном из выпусков шоу «Голос» призналась, что имеет мордовские корни. Мать — профессиональная танцовщица — в 1991 году подписала контракт с греческим продюсером на работу артисткой балета «Алсос» в Афинах. Там Гагарина прожила три года, в сентябре 1993 года пошла в первый класс. Вернувшись на летние каникулы в Россию, по настоянию бабушки осталась жить вместе с ней в Саратове. Поступила в музыкальную школу, исполнив в отборочном туре композицию Уитни Хьюстон."
+              },
+              {
+                "title": "2003",
+                "cardTitle": "Фабрика звёзд",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"В 2003 году в возрасте 16 лет Гагарина попала на телевизионный проект «Фабрика звёзд-2».",
+                "cardDetailedText": "В 2003 году в возрасте 16 лет Гагарина попала на телевизионный проект «Фабрика звёзд-2». Она исполнила несколько песен Максима Фадеева и победила на конкурсе. Многие профессионалы впоследствии признавали Гагарину самой сильной певицей из всех победителей шоу. Однако по окончании проекта Гагарина отказалась от сотрудничества с Фадеевым. "
+              },
+              {
+                "title": "2004—2007",
+                "cardTitle": "Начало карьеры и альбом «Попроси у облаков»",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"В 2005 году Гагарина подписала контракт с лейблом АРС Records.",
+                "cardDetailedText": "В 2005 году Гагарина подписала контракт с лейблом АРС Records. В этом же году приняла участие в международном конкурсе «Новая волна», где заняла третье место с авторской песней «Колыбельная». 11 июля в Москве прошли съёмки клипа на эту песню, режиссёром и оператором которого выступил Владислав Опельянц."
+              },
+              {
+                "title": "2008—2010",
+                "cardTitle": "альбом «О себе»",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"В 2008 году Гагарина записала песню «Кому, зачем?»",
+                "cardDetailedText": "11 марта 2010 года вышел второй сольный альбом «О себе». В него вошли дуэт с Дубцовой «Кому, зачем?», «Любовь под солнцем» и «Где-то живёт любовь». Гагарина охарактеризовала альбом следующим образом: «Новый альбом. Новый этап жизни, — как творческой, так и личной."
+              },
+              {
+                "title": "2011—2015",
+                "cardTitle": "Успех, третий студийный альбом и «Евровидение»",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"В августе 2011 года Гагарина получила «Золотой граммофон»",
+                "cardDetailedText": "В январе 2012 года вышел новый сингл «Спектакль окончен», в конце января вышел клип. Весной на украинском телевидении стартовал сериал «Катина любовь», саундтреком к которому стала песня Гагариной «Вернись любовь». В июне на Первом канале (Россия) вновь начал работу телепроект «Фабрика звёзд» — под девизом «Россия vs Украина». Популярные участники выпусков России и Украины должны были в песенных поединках показать, чья команда лучше. Гагарина выиграла три поединка из четырёх, внеся вклад в победу команды России. Также летом Гагарина стала послом XXVII Всемирной летней Универсиады 2013 года в Казани."
+              }
+          ]
         },
         {
-            "name": "Алла Пугачева",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "allaPugacheva.jpeg",
+            "name": "Никита Малинин",
+            "age": 42,
+            "description":  "Российский певец, сын известного российского артиста Александра Малинина, выпускник «Фабрики звезд — 3».",
+            "photo": "nikitaMalinin.jpg",
+            "avatar": "/nikitaMalinin/ava.jpg",
             "id": 2,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "/public/photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "/public/photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "/public/photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/o0A4AVjzWCc?si=z4Vb-H5-XdKTzOAG",
+            "galerrey1": "/public/photos/personsPages/nikitaMalinin/1.jpeg",
+            "galerrey2": "/public/photos/personsPages/nikitaMalinin/2.jpg",
+            "galerrey3": "/public/photos/personsPages/nikitaMalinin/3.jpeg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+              "title": "1981—2003",
+              "cardTitle": "Детство, юность, семья",
+              "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+              "cardSubtitle":"Родился осенью 1981 года",
+              "cardDetailedText": "Никита родился осенью 1981 года в семье певца Алексадра Малинина (Выгузова) и скрипачки Инны Курочкиной. Родители познакомились в вокально-инструментальном ансамбле «Поющие гитары»."
+              },
+              {
+                "title": "2003",
+                "cardTitle": "Фабрика звёзд",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"В 2003 году попал на телевизионный проект «Фабрика звёзд-2».",
+                "cardDetailedText": "Широкая известность пришла к исполнителю в 2003 году, когда он стал участником третьей «Фабрики звезд». Решение попробовать свои силы в вокальном конкурсе он принял самостоятельно, даже не сообщив об этом родственникам. Лишь после кастинга, который он с успехом прошел, рассказал, что он стал «фабрикантом»."
+              },
+              {
+                "title": "2004—2007",
+                "cardTitle": "Начало музыкальной карьеры",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"Альбом «Вспышка в ночи»",
+                "cardDetailedText": "Для массового слушателя Никита Малинин всё еще остается исполнителем хита «Котёнок», так как даже заглавный хит с его дебютного альбома «Вспышка в ночи» (2004) не смог повторить успеха песни, рожденной в стенах «Фабрики звезд».Дебютный альбом стал и последним. В 2005 году Никита стал представителем России на международном конкурсе World Best, а потом взял паузу, поскольку захотел разобраться, в каком направлении ему двигаться дальше."
+              },
+              {
+                "title": "2007—2015",
+                "cardTitle": "Смена направления",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"Артист стал писать клубную музыку",
+                "cardDetailedText": "Образ романтичного «котёнка» его больше не устраивал, артист стал писать клубную музыку, сотрудничал с Борисом Моисеевым, Домиником Джокером, Викторией Дайнеко, певицей Славой. В Европе в 2007 году вышел совместный альбом Никиты и DJ Nejtrino, также он записал несколько песен с DJ Misha Klein написано несколько песен."
+              },
+              {
+                "title": "2015—2023",
+                "cardTitle": "Шоу «Один в один!» ",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                "cardSubtitle":"В 2015 году музыкант появился в популярном шоу «Один в один!»",
+                "cardDetailedText": "В 2015 году музыкант появился в популярном шоу «Один в один!» и даже воплотил образ Малинина-старшего, спев один из его романсов. Победителем шоу стал Руслан Алехно, но Никита также показал высокую способность перевоплощаться в других артистов."
+              }
+            ]
         },
         {
-            "name": "Сергей Мавроди",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "sergey.jpg",
+            "name": "Ирина Дубцова",
+            "age": 41 ,
+            "description":  "российская певица, поэтесса и композитор, бывшая солистка группы «Девочки»",
+            "photo": "irinaDub.jpg",
+            "avatar": "/irinaDub/ava.jpg",
             "id": 3,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "/public/photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "/public/photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "/public/photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
-        },
-        {
-            "name": "Рикардо Милос",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "ricardo.jpg",
-            "id": 4,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "/public/photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "/public/photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "/public/photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/q2tGQwTl4vk?si=AY0_QD8bVJLlCqcM",
+            "galerrey1": "/public/photos/personsPages/irinaDub/1.jpeg",
+            "galerrey2": "/public/photos/personsPages/irinaDub/2.jpg",
+            "galerrey3": "/public/photos/personsPages/irinaDub/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+              "title": "1982—2004",
+              "cardTitle": "Ранние годы",
+              "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0#%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+              "cardSubtitle":"Родилась зимой 1982 года",
+              "cardDetailedText": "Родилась 14 февраля 1982 года в Волгограде. Окончила музыкальную школу. Когда ей было 11 лет, её родителями был создан детский музыкальный коллектив «Джем», в который вошла Дубцова. Коллектив стал достаточно популярным в Волгограде. В 1999 году через друга её отца Андрея Пряжникова диск с песней «Hijo De La Luna» в исполнении Дубцовой попал к известному продюсеру Игорю Матвиенко, который набирал участниц в новую группу. Группа получила название «Девочки». "
+              },
+              {
+                "title": "2004—2007",
+                "cardTitle": "Фабрика звёзд",
+                "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0#%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+                "cardSubtitle":"12 марта 2004 года на Первом канале стартовала «Фабрика звёзд 4», в которой приняла участие Ирина Дубцова.",
+                "cardDetailedText": "12 марта 2004 года на Первом канале стартовала «Фабрика звёзд 4», в которой приняла участие Ирина Дубцова. Она отметилась дуэтами с такими исполнителями, как «Мумий Тролль», Игорь Николаев, «БИ-2», Александр Иванов, «Иванушки International», Александр Розенбаум, Владимир Пресняков-младший, а также исполнила песню собственного сочинения «О нём». 8 июня в спорткомплексе «Олимпийский» состоялся финальный гала-концерт «Фабрики звёзд 4», на котором были объявлены победители проекта, Дубцова заняла первое место."
+              },
+              {
+                "title": "2008—2011",
+                "cardTitle": "Музыкальная карьера",
+                "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0#%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+                "cardSubtitle":"В 2008 году Ирина Дубцова совместно с Полиной Гагариной записала песню «Кому? Зачем?»",
+                "cardDetailedText": "В 2008 году Ирина Дубцова совместно с Полиной Гагариной записала песню «Кому? Зачем?», на которую был снят клип. Песня стала победителем «Премии Муз-ТВ 2010» в номинации «Дуэт года».В 2010 году Дубцова, Жасмин, Алсу, Татьяна Буланова и Лера Кудрявцева записали детскую колыбельную «Спи, моё солнышко» в поддержку благотворительного проекта"
+              },
+              {
+                "title": "2012—2014",
+                "cardTitle": "Продолжение карьеры",
+                "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0#%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+                "cardSubtitle":"Весной 2012 года Дубцова записала песню «Ешь. Молись. Люби», слова и музыку к которой она написала сама",
+                "cardDetailedText": "Весной 2012 года Дубцова записала песню «Ешь. Молись. Люби», слова и музыку к которой она написала сама, а в мае вышел снятый в Киеве клип, режиссёром которого стал Александр Филатович. Осенью 2012 года на украинском канале СТБ открылся третий сезон украинской версии британского вокального талант-шоу «X-Фактор», в котором Ирина Дубцова заняла в жюри место певицы Ёлки"
+              },
+              {
+                "title": "2015—2023",
+                "cardTitle": "Первый сольный концерт",
+                "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0#%D0%91%D0%B8%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%8F",
+                "cardSubtitle":"В начале 2015 года прошла подготовка первого сольного концерта в «Crocus City Hall»",
+                "cardDetailedText": "В начале 2015 года прошла подготовка первого сольного концерта в «Crocus City Hall», приуроченного к выходу нового альбома и 10-летию сольной карьеры. Концерт состоялся 28 марта. 25 января Дубцова представила сольную песню «Люби меня долго» в программе канала Муз-ТВ «Партийная зона». 3 февраля на канале Ello в YouTube состоялась премьера клипа на эту песню.В феврале 2016 года Ирина Дубцова приступила к съёмкам нового сезона шоу «Точь-в-точь. Битва сезонов», премьера которого состоялась 18 сентября на Первом канале. 23 марта Дубцова представила новую концертную программу «Люби меня долго» на сольном аншлаговом концерте в «Crocus City Hall»"
+              }
+            ]
         },
         {
             "name": "Виктория Дайнеко",
@@ -85,7 +183,7 @@
             "description":  "Российская певица, автор песен и актриса кино и дубляжа.",
             "photo": "victoriaDajneko.jpg",
             "avatar": "/victoriaDajneko/ava.jpg",
-            "id": 5,
+            "id": 4,
             "youtube": "https://www.youtube.com/embed/MHoIAFUtSCs?si=9qBSYShy7p9z4adX",
             "galerrey1": "/public/photos/personsPages/victoriaDajneko/1.jpg",
             "galerrey2": "/public/photos/personsPages/victoriaDajneko/2.jpg",
@@ -141,7 +239,7 @@
             "description":  "Белорусский певец, поэт и композитор, победитель проекта «Фабрика звёзд-6», участник Евровидения",
             "photo": "dmitriyKoldun.jpg",
             "avatar": "/dmitriyKoldun/ava.jpg",
-            "id": 6,
+            "id": 5,
             "youtube": "https://www.youtube.com/embed/Yrdipo5FSOU?si=FOJbOAlH908Bjo5A",
             "galerrey1": "/public/photos/personsPages/dmitriyKoldun/1.jpg",
             "galerrey2": "/public/photos/personsPages/dmitriyKoldun/2.jpeg",
@@ -197,7 +295,7 @@
             "description":  "Украинская певица, участница шоу 'Голос краiни' и 'Евровидение'. Она также известна своими хитами 'Зажигай' и 'Мама'.",
             "photo": "anastasiaPrihodko.jpg",
             "avatar": "/anastasiaPrihodko/ava.jpg",
-            "id": 7,
+            "id": 6,
             "youtube": "https://www.youtube.com/embed/fqQwapIxP3U?si=0ahlahjAPbIqYiam",
             "galerrey1": "/public/photos/personsPages/anastasiaPrihodko/1.jpg", 
             "galerrey2": "/public/photos/personsPages/anastasiaPrihodko/2.jpg",
@@ -254,7 +352,7 @@
             "description":  "Российская певица, победительница телешоу 'Новая Фабрика Звезд' 2017 года.",
             "photo": "guzelHasanova.jpg",
             "avatar": "/guzelHasanova/ava.jpg",
-            "id": 8,
+            "id": 7,
             "youtube": "https://www.youtube.com/embed/Q-U5s3Krjfo?si=ad-iySkYsB3HNCiR",
             "galerrey1": "/public/photos/personsPages/guzelHasanova/1.jpg", 
             "galerrey2": "/public/photos/personsPages/guzelHasanova/2.jpg",
