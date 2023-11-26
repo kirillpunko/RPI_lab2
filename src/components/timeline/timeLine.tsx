@@ -1,17 +1,15 @@
 import "./timeLine.css";
-import timelineJson from "../../../public/locals/en/translations.json";
 import { Chrono } from "react-chrono";
+import { useTranslation } from "react-i18next";
 interface personId {
   id: number;
 }
 const TimeLine = ({ id }: personId) => {
-  const timeLineItems = timelineJson;
+  const { t } = useTranslation();
+  const timeLineItems = t("persons", { returnObjects: true });
   return (
     <div className="timeLineBlock">
-      <Chrono
-        items={timeLineItems.persons[id].items}
-        mode="VERTICAL_ALTERNATING"
-      />
+      <Chrono items={timeLineItems[id].items} mode="VERTICAL_ALTERNATING" />
     </div>
   );
 };

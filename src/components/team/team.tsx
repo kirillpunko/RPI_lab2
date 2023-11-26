@@ -24,9 +24,9 @@ const Team = () => {
           photo={"team2.jpg"}
           name={t("team2-name")}
           work={t("team2-prof")}
-          git={"#"}
-          inst={"#"}
-          twit={"#"}
+          git={"https://github.com/tubeamplifierandsound"}
+          inst={"https://www.instagram.com/schwarzenegger/"}
+          twit={"https://www.youtube.com/watch?v=bH9QHujGILk"}
         />
         <TeamPerson
           photo={"team3.jpg"}
@@ -40,9 +40,9 @@ const Team = () => {
           photo={"team4.jpg"}
           name={t("team4-name")}
           work={t("team4-prof")}
-          git={"#"}
-          inst={"#"}
-          twit={"#"}
+          git={"https://github.com/Evgenuch"}
+          inst={"https://www.instagram.com/sadf1nn"}
+          twit={"https://twitter.com/soulYo_0"}
         />
       </div>
     </section>
