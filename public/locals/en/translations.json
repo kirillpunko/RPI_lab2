@@ -124,28 +124,116 @@
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
         },
         {
-            "name": "Going to the river",
+            "name": "Victoria Dayneko",
             "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "reka.jpg",
+            "description": "Russian singer, songwriter and film and dubbing actress.",
+            "photo": "victoriaDajneko.jpg",
+            "avatar": "/victoriaDajneko/ava.jpg",
             "id": 5,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/MHoIAFUtSCs?si=9qBSYShy7p9z4adX",
+            "galerrey1": "/public/photos/personsPages/victoriaDajneko/1.jpg",
+            "galerrey2": "/public/photos/personsPages/victoriaDajneko/2.jpg",
+            "galerrey3": "/public/photos/personsPages/victoriaDajneko/3.jpeg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45216.14646441634!2d78.18171417105783!3d44.90280963934956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x427f1b9ecbde295b%3A0xc203175f459dc131!2z0JHQsNC70L_Ri9C6LCDQmtCw0LfQsNGF0YHRgtCw0L0!5e0!3m2!1sru!2sby!4v1700936155632!5m2!1sru!2sby",
+            "items": [{
+                "title": "1987-1999",
+                "cardTitle": "Early years",
+                "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Ранние_годы",
+                "cardSubtitle":"Born on May 12, 1987 in Kazakhstan",
+                "cardDetailedText": "She was born on May 12, 1987 in the village of Kirovsky Taldy-Kurgan region. She spent her childhood in Yakutia, in the city of Mirny. Since childhood, I dreamed of becoming a pop singer. Parents — Peter and Evgenia Daineko, programmers, gave their daughter to the ballet Diamonds of Yakutia; Daineko was engaged in dancing until the age of 11. During her school years, she began performing at various Mirny music venues, mostly singing other people's hits. She was making progress, so she was invited first to the local pop group Reflection, and then to a group called Phaeton."
+                },
+                {
+                  "title": "2004-2005",
+                  "cardTitle": "Early career",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"Won at the Factory of Stars 5",
+                  "cardDetailedText": "In 2004, at the age of 17, she became a participant in the TV project of the First Channel Star Factory 5 under the direction of singer Alla Pugacheva, where she won and received an apartment in Moscow. As part of the TV project, Daineko performed two solo songs — I will be better and Leila. A video was shot for the song I Dreamed, the work with Daineko was performed by Alexander Marshal. After the end of the TV project with Dayneko in 2005, Igor Matvienko began serious work"
+                },
+                {
+                  "title": "2005-2008",
+                  "cardTitle": "Popularity Set",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"Became the best performer",
+                  "cardDetailedText": "In the fall of 2007, she was presented in the nomination Best Performer at the MTV Russia Music Awards ceremony. She also became the winner of the Fashion TV channel award in the nomination Fashion Singer of 2007. In early 2007, she recorded the soundtrack to the film Waiting for a Miracle — The film is not about love. In parallel with the filming of the film, a video clip for this song was shot. On March 6, 2008, the debut album Needle was released, which became a kind of collection of the singer's hits, since it was the first album in three years of work."
+                },
+                {
+                  "title": "2009-2014",
+                  "cardTitle": "Working in projects",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"I won again at the factory of stars",
+                  "cardDetailedText": "In the spring of 2009, she took part in the project of the First Channel Two Stars 2009, where, together with actor Alexander Oleshko, she took 3rd place. At the end of 2010, she voiced the main character of the cartoon Rapunzel: A Tangled Story. In 2011, she participated in the project Factory of Stars. Return, where graduates of the Factory of Stars of different years competed. Daineko was part of the team of producer Igor Matvienko. Daineko won the project, she was preferred by 19% of the viewers who took part in the voting. On May 12, 2014, the music video for the single Beat Yourself premiered. On November 14, 2014, the premiere of the second and first English-language album titled V took place."
+                },
+                {
+                  "title": "2015-2019",
+                  "cardTitle": "Honorary awards",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"In 2015 she became an honored artist",
+                  "cardDetailedText": "In May 2015, she was awarded the title of Honored Artist of Karachay-Cherkessia. In November 2015, the song These Nights was released, but already in January 2016, a video for this song was shot. In November 2016, the cartoon Trolls was released, one of the characters of which was voiced by Daineko. On February 1, 2019, the new album Magnetic was released."
+                },
+                {
+                  "title": "2022-2023",
+                  "cardTitle": "Current activities",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"New song and projects",
+                  "cardDetailedText": "In the fall of 2022, she took part in the recording of a politically ideologized song and video Let's Get Up. In 2023, she became a participant in the seventh season of the show Three Chords on Channel One. In 2023, she took part in the 4th season of the show Mask on NTV in the image of a Phoenix. In the sixth issue, aired on March 19, 2023, the Phoenix mask was unmasked."
+                }
+              ]
         },
         {
-            "name": "Lelouch the British",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "lelush.jpg",
+            "name": "Dmitry Koldun",
+            "age": 38,
+            "description":  "Belarusian singer, poet and composer, winner of the project Star Factory-6, Eurovision participant",
+            "photo": "dmitriyKoldun.jpg",
+            "avatar": "/dmitriyKoldun/ava.jpg",
             "id": 6,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/Yrdipo5FSOU?si=FOJbOAlH908Bjo5A",
+            "galerrey1": "/public/photos/personsPages/dmitriyKoldun/1.jpg",
+            "galerrey2": "/public/photos/personsPages/dmitriyKoldun/2.jpeg",
+            "galerrey3": "/public/photos/personsPages/dmitriyKoldun/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d150505.31375908336!2d27.428561540984575!3d53.88472951350763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e0!3m2!1sru!2sby!4v1700958084478!5m2!1sru!2sby",
+            "items": [{
+              "title": "1985-2003",
+              "cardTitle": "Early years",
+              "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+              "cardSubtitle":"Born on June 11, 1985 in Minsk, Belarus",
+              "cardDetailedText": "Born in the family of a geography teacher Tatiana Borisovna Koldun and Alexander Pavlovich Koldun, the elder brother is George Alexandrovich Koldun. As a child, he was fond of music, played with his band called Heavy Wheel Plow. The repertoire of the guitar trio consisted mainly of compositions in the Belarusian language. Graduated from the Chemical Faculty of the Belarusian State University. In 2004, he was a participant in the project People's Artist-2 on the TV channel Russia."
+              },
+              {
+                "title": "2004-2006",
+                "cardTitle": "Early career",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Won at the Factory of Stars 6",
+                "cardDetailedText": "In 2004-2005 he worked in the State Concert Orchestra of the Republic of Belarus. He took part in the festivals Molodechno-2005 and Slavic Bazaar in Vitebsk. In 2006, he took part in the Belarusian national selection for Eurovision with the song May be. In the same year he became the winner of the project Factory of Stars-6, after which he became the soloist of the updated composition of the K. G. B. group (Koldun, Gurkova, Barsukov), but soon left the collective. After a joint performance with the Scorpions group of the song Still Loving You, he received an invitation from soloist Klaus Meine to perform this song as part of a joint tour."
+              },
+              {
+                "title": "2007-2009",
+                "cardTitle": "Popularity Set",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Participated in Eurovision",
+                "cardDetailedText": "Dmitry Koldun at the Eurovision Song Contest, 2007. In December 2007 — March 2008, he took part in the project Two Stars on Channel One, paired with Natalia Rudova. In 2008, he played the main character of the rock opera The Star and the Death of Joaquin Murieta robber Joaquin. In 2009, he participated in the project of the Muz TV channel The Star went to..."
+              },
+              {
+                "title": "2009-2012",
+                "cardTitle": "Concerts",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Actively participated in concerts",
+                "cardDetailedText": "On February 9, 2009, together with Alexander Astashenk, he opened the Lizard recording studio. On April 29, 2009, he gave his first solo concert in Korolev. On November 20, 2010, at the Junior Eurovision Song Contest 2010, he performed the final UNICEF anthem A day without war together with the children participating in the contest. In March 2012, the release of the second studio album Night Pilot took place. In June 2012, he took part in the musical project Factory of Stars. Russia-Ukraine."
+              },
+              {
+                "title": "2013-2017",
+                "cardTitle": "New contests",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Actively participated in competitions",
+                "cardDetailedText": "On November 6, 2013, the presentation of the third studio album City of Big Lights took place in the restaurant. On March 2 — June 8, 2014, he took part in the show Exactly on Channel One, reaching the final, but not winning. In 2016, he took part in the new season of the show Exactly on Channel One. In 2017 Dmitry Koldun with the song Friday performed at the opening of the XXVI Festival of arts Slavic Bazaar in Vitebsk."
+              },
+              {
+                "title": "2018-2023",
+                "cardTitle": "Current activities",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Continues to perform",
+                "cardDetailedText": "In November 2018, he spoke in the DPR at the elections of the head of the republic. Because of this, it was proposed to impose international sanctions against him. In 2021, he released the single All Over Again. In 2022, he was declassified in the show Fiction on Channel One as an accomplished artist, the character Phantom. Left the project in the 8th issue."
+              }
+            ]
         },
         {
             "name": "Naruto Uzumaki",
