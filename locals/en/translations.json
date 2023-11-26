@@ -23,7 +23,7 @@
     "team1-name": "Kirill Punko",
     "team2-name": "Vadim Troiskiy",
     "team3-name": "Denis Shpitalenkov",
-    "team4-name": "Evgeniy Belyackiy",
+    "team4-name": "Evgeniy Belyatsтзьkiy",
     "footer": "2009-2023 RIA Star Factory. All media files are taken from open source Internet sources. Github: https://github.com/kirillpunko",
     "personPage-gallery": "Gallery",
     "personPage-map": "Map",
@@ -33,143 +33,375 @@
         {
             "name": "Polina Gagarina",
             "age": 36,
-            "description": "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
+            "description":  "Russian pop singer, film, television, voice-over and dubbing actress, composer and fashion model.",
             "photo": "polinaGagarina.jpg",
             "avatar": "/polinaGagarina/ava.jpg",
             "id": 1,
             "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
+            "galerrey1": "/public/photos/personsPages/polinaGagarina/1.jpeg",
+            "galerrey2": "/public/photos/personsPages/polinaGagarina/2.jpg",
+            "galerrey3": "/public/photos/personsPages/polinaGagarina/3.jpeg",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
-            "items": [
+            "items": [{
+                "title": "1987—2002",
+                "cardTitle": "Childhood and youth",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                "cardSubtitle":"Born March 27, 1987",
+                "cardDetailedText": "Born on March 27, 1987 in Moscow, she spent her childhood in Greece. At one of the episodes of the show “The Voice” she admitted that she has Mordovian roots. Her mother, a professional dancer, signed a contract with a Greek producer in 1991 to work as a dancer in the Alsos ballet in Athens. Gagarina lived there for three years, and in September 1993 she entered first grade. Returning to Russia for the summer holidays, at the insistence of her grandmother, she stayed with her in Saratov. She entered a music school, performing a Whitney Houston composition in the qualifying round."
+            },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2003",
+                    "cardTitle": "Star Factory",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2003, at the age of 16, Gagarina appeared on the television project “Star Factory-2”.",
+                    "cardDetailedText": "In 2003, at the age of 16, Gagarina appeared on the television project “Star Factory-2”. She performed several songs by Maxim Fadeev and won the competition. Many professionals subsequently recognized Gagarina as the strongest singer of all the winners of the show. However, at the end of the project, Gagarina refused to cooperate with Fadeev."
                 },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2004—2007",
+                    "cardTitle": "The beginning of a career and the album “Ask the Clouds”",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2005, Gagarina signed a contract with the APC Records label.",
+                    "cardDetailedText": "In 2005, Gagarina signed a contract with the APC Records label. In the same year, she took part in the international competition “New Wave”, where she took third place with her original song “Lullaby”. On July 11, the filming of a video for this song took place in Moscow, directed and cinematographed by Vladislav Opelyants."
                 },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2008—2010",
+                    "cardTitle": "album \"About Me\"",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2008, Gagarina recorded the song “Who, why?”",
+                    "cardDetailedText": "On March 11, 2010, the second solo album “About Myself” was released. It included a duet with Dubtsova “To whom, why?”, “Love under the sun” and “Love lives somewhere”. Gagarina described the album as follows: “A new album. A new stage of life, both creative and personal."
                 },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
-                },
-                {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
-                },
-                {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2011—2015",
+                    "cardTitle": "Success, third studio album and Eurovision",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In August 2011, Gagarina received the Golden Gramophone",
+                    "cardDetailedText": "In January 2012, a new single, “The Performance is Over,” was released, and a video was released at the end of January. In the spring, the series “Katina Love” started on Ukrainian television, the soundtrack to which was Gagarina’s song “Come Back Love.” In June, the TV project “Star Factory” began working again on Channel One (Russia) under the motto “Russia vs Ukraine.” Popular participants in the Russian and Ukrainian editions had to show in song duels whose team was better. Gagarina won three out of four matches, contributing to the victory of the Russian team. Also in the summer, Gagarina became the ambassador of the XXVII World Summer Universiade 2013 in Kazan."
                 }
             ]
         },
         {
-            "name": "Alla Pugacheva",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "allaPugacheva.jpeg",
+            "name": "Nikita Malinin",
+            "age": 42,
+            "description":  "Russian singer, son of the famous Russian artist Alexander Malinin, graduate of Star Factory 3.",
+            "photo": "nikitaMalinin.jpg",
+            "avatar": "/nikitaMalinin/ava.jpg",
             "id": 2,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/o0A4AVjzWCc?si=z4Vb-H5-XdKTzOAG",
+            "galerrey1": "/public/photos/personsPages/nikitaMalinin/1.jpeg",
+            "galerrey2": "/public/photos/personsPages/nikitaMalinin/2.jpg",
+            "galerrey3": "/public/photos/personsPages/nikitaMalinin/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+                "title": "1981—2003",
+                "cardTitle": "Childhood, youth, family",
+                "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                "cardSubtitle":"Born in the fall of 1981",
+                "cardDetailedText": "Nikita was born in the fall of 1981 in the family of singer Alexander Malinin (Vyguzov) and violinist Inna Kurochkina. The parents met in the vocal and instrumental ensemble “Singing Guitars”."
+                },
+                {
+                    "title": "2003",
+                    "cardTitle": "Star Factory",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"In 2003, he appeared on the television project “Star Factory-2”.",
+                    "cardDetailedText": "The performer gained wide fame in 2003, when he became a participant in the third “Star Factory”. He made the decision to try his hand at a vocal competition on his own, without even informing his relatives about it. Only after the casting, which he successfully passed, did he say that he had become a “manufacturer”."
+                },
+                {
+                    "title": "2004—2007",
+                    "cardTitle": "The beginning of a musical career",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"Album \"Flash in the Night\"",
+                    "cardDetailedText": "For the mass listener, Nikita Malinin still remains the performer of the hit “Kitten”, since even the title hit from his debut album “Flash in the Night” (2004) could not repeat the success of the song born within the walls of the “Star Factory”. The debut album was also his last . In 2005, Nikita became the representative of Russia at the international World Best competition, and then took a break because he wanted to figure out what direction he should move in next."
+                },
+                {
+                    "title": "2007—2015",
+                    "cardTitle": "Change of direction",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"The artist began writing club music",
+                    "cardDetailedText": "The image of a romantic “kitten” no longer suited him, the artist began to write club music, collaborated with Boris Moiseev, Dominic Joker, Victoria Daineko, and singer Slava. In Europe in 2007, a joint album between Nikita and DJ Nejtrino was released, and he also recorded several songs with DJ Misha Klein and wrote several songs."
+                },
+                {
+                    "title": "2015—2023",
+                    "cardTitle": "Show “One to One!”",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"In 2015, the musician appeared in the popular show “One to One!”",
+                    "cardDetailedText": "In 2015, the musician appeared in the popular show “One to One!” and even embodied the image of Malinin Sr., singing one of his romances. The winner of the show was Ruslan Alekhno, but Nikita also showed a high ability to transform into other artists."
+                }
+            ]
         },
         {
-            "name": "Sergey Mavrodi",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "sergey.jpg",
+            "name": "Irina Dubtsova",
+            "age": 41 ,
+            "description":  "Russian singer, poetess and composer, former soloist of the group “Girls”",
+            "photo": "irinaDub.jpg",
+            "avatar": "/irinaDub/ava.jpg",
             "id": 3,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/q2tGQwTl4vk?si=AY0_QD8bVJLlCqcM",
+            "galerrey1": "/public/photos/personsPages/irinaDub/1.jpg",
+            "galerrey2": "/public/photos/personsPages/irinaDub/2.jpg",
+            "galerrey3": "/public/photos/personsPages/irinaDub/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+                "title": "1982—2004",
+                "cardTitle": "Early years",
+                "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                "cardSubtitle":"Born in the winter of 1982",
+                "cardDetailedText": "Born on February 14, 1982 in Volgograd. Graduated from music school. When she was 11 years old, her parents created the children's musical group “Jam”, which included Dubtsova. The team has become quite popular in Volgograd. In 1999, through her father’s friend Andrei Pryazhnikov, a disc with the song “Hijo De La Luna” performed by Dubtsova got to the famous producer Igor Matvienko, who was recruiting participants for a new group. The group was called \"Girls\"."
+                },
+                {
+                    "title": "2004—2007",
+                    "cardTitle": "Star Factory",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"On March 12, 2004, “Star Factory 4” started on Channel One, in which Irina Dubtsova took part.",
+                    "cardDetailedText": "On March 12, 2004, “Star Factory 4” started on Channel One, in which Irina Dubtsova took part. She performed duets with such performers as “Mumiy Troll”, Igor Nikolaev, “BI-2”, Alexander Ivanov, “Ivanushki International”, Alexander Rosenbaum, Vladimir Presnyakov Jr., and also performed a song of her own composition “About Him”. On June 8, the final gala concert of “Star Factory 4” took place at the Olimpiysky sports complex, at which the winners of the project were announced; Dubtsova took first place."
+                },
+                {
+                    "title": "2008—2011",
+                    "cardTitle": "Music career",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2008, Irina Dubtsova, together with Polina Gagarina, recorded the song “Who? For what?\"",
+                    "cardDetailedText": "In 2008, Irina Dubtsova, together with Polina Gagarina, recorded the song “Who? Why?”, for which the video was shot. The song won the Muz-TV Award 2010 in the Duet of the Year category. In 2010, Dubtsova, Jasmine, Alsou, Tatyana Bulanova and Lera Kudryavtseva recorded a children's lullaby “Sleep, my sunshine” in support of a charity project"
+                },
+                {
+                    "title": "2012—2014",
+                    "cardTitle": "Career continuation",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In the spring of 2012, Dubtsova recorded the song “Eat. Pray. Love”, words and music for which she wrote herself",
+                    "cardDetailedText": "In the spring of 2012, Dubtsova recorded the song “Eat. Pray. Love,” for which she wrote the words and music herself, and in May a video was released, shot in Kyiv, directed by Alexander Filatovich. In the fall of 2012, the Ukrainian channel STB opened the third season of the Ukrainian version of the British vocal talent show \"X-Factor\", in which Irina Dubtsova took the place of singer Yolka on the jury"
+                },
+                {
+                    "title": "2015—2023",
+                    "cardTitle": "First solo concert",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"At the beginning of 2015, preparations took place for the first solo concert at Crocus City Hall.",
+                    "cardDetailedText": "At the beginning of 2015, preparations took place for the first solo concert at Crocus City Hall, dedicated to the release of the new album and the 10th anniversary of his solo career. The concert took place on March 28. On January 25, Dubtsova presented the solo song “Love Me Long” in the Muz-TV channel program “Party Zone”. On February 3, the premiere of the video for this song took place on the Ello YouTube channel. In February 2016, Irina Dubtsova began filming the new season of the show “Exactly the Same. Battle of the Seasons,” which premiered on September 18 on Channel One. On March 23, Dubtsova presented a new concert program “Love Me Long” at a sold-out solo concert at Crocus City Hall."
+                }
+            ]
         },
         {
-            "name": "Ricardo Milos",
+            "name": "Victoria Dayneko",
             "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "ricardo.jpg",
+            "description": "Russian singer, songwriter and film and dubbing actress.",
+            "photo": "victoriaDajneko.jpg",
+            "avatar": "/victoriaDajneko/ava.jpg",
             "id": 4,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/MHoIAFUtSCs?si=9qBSYShy7p9z4adX",
+            "galerrey1": "/public/photos/personsPages/victoriaDajneko/1.jpg",
+            "galerrey2": "/public/photos/personsPages/victoriaDajneko/2.jpg",
+            "galerrey3": "/public/photos/personsPages/victoriaDajneko/3.jpeg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d45216.14646441634!2d78.18171417105783!3d44.90280963934956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x427f1b9ecbde295b%3A0xc203175f459dc131!2z0JHQsNC70L_Ri9C6LCDQmtCw0LfQsNGF0YHRgtCw0L0!5e0!3m2!1sru!2sby!4v1700936155632!5m2!1sru!2sby",
+            "items": [{
+                "title": "1987-1999",
+                "cardTitle": "Early years",
+                "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Ранние_годы",
+                "cardSubtitle":"Born on May 12, 1987 in Kazakhstan",
+                "cardDetailedText": "She was born on May 12, 1987 in the village of Kirovsky Taldy-Kurgan region. She spent her childhood in Yakutia, in the city of Mirny. Since childhood, I dreamed of becoming a pop singer. Parents — Peter and Evgenia Daineko, programmers, gave their daughter to the ballet Diamonds of Yakutia; Daineko was engaged in dancing until the age of 11. During her school years, she began performing at various Mirny music venues, mostly singing other people's hits. She was making progress, so she was invited first to the local pop group Reflection, and then to a group called Phaeton."
+                },
+                {
+                  "title": "2004-2005",
+                  "cardTitle": "Early career",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"Won at the Factory of Stars 5",
+                  "cardDetailedText": "In 2004, at the age of 17, she became a participant in the TV project of the First Channel Star Factory 5 under the direction of singer Alla Pugacheva, where she won and received an apartment in Moscow. As part of the TV project, Daineko performed two solo songs — I will be better and Leila. A video was shot for the song I Dreamed, the work with Daineko was performed by Alexander Marshal. After the end of the TV project with Dayneko in 2005, Igor Matvienko began serious work"
+                },
+                {
+                  "title": "2005-2008",
+                  "cardTitle": "Popularity Set",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"Became the best performer",
+                  "cardDetailedText": "In the fall of 2007, she was presented in the nomination Best Performer at the MTV Russia Music Awards ceremony. She also became the winner of the Fashion TV channel award in the nomination Fashion Singer of 2007. In early 2007, she recorded the soundtrack to the film Waiting for a Miracle — The film is not about love. In parallel with the filming of the film, a video clip for this song was shot. On March 6, 2008, the debut album Needle was released, which became a kind of collection of the singer's hits, since it was the first album in three years of work."
+                },
+                {
+                  "title": "2009-2014",
+                  "cardTitle": "Working in projects",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"I won again at the factory of stars",
+                  "cardDetailedText": "In the spring of 2009, she took part in the project of the First Channel Two Stars 2009, where, together with actor Alexander Oleshko, she took 3rd place. At the end of 2010, she voiced the main character of the cartoon Rapunzel: A Tangled Story. In 2011, she participated in the project Factory of Stars. Return, where graduates of the Factory of Stars of different years competed. Daineko was part of the team of producer Igor Matvienko. Daineko won the project, she was preferred by 19% of the viewers who took part in the voting. On May 12, 2014, the music video for the single Beat Yourself premiered. On November 14, 2014, the premiere of the second and first English-language album titled V took place."
+                },
+                {
+                  "title": "2015-2019",
+                  "cardTitle": "Honorary awards",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"In 2015 she became an honored artist",
+                  "cardDetailedText": "In May 2015, she was awarded the title of Honored Artist of Karachay-Cherkessia. In November 2015, the song These Nights was released, but already in January 2016, a video for this song was shot. In November 2016, the cartoon Trolls was released, one of the characters of which was voiced by Daineko. On February 1, 2019, the new album Magnetic was released."
+                },
+                {
+                  "title": "2022-2023",
+                  "cardTitle": "Current activities",
+                  "url": "https://ru.wikipedia.org/wiki/Дайнеко,_Виктория_Петровна#Карьера",
+                  "cardSubtitle":"New song and projects",
+                  "cardDetailedText": "In the fall of 2022, she took part in the recording of a politically ideologized song and video Let's Get Up. In 2023, she became a participant in the seventh season of the show Three Chords on Channel One. In 2023, she took part in the 4th season of the show Mask on NTV in the image of a Phoenix. In the sixth issue, aired on March 19, 2023, the Phoenix mask was unmasked."
+                }
+              ]
         },
         {
-            "name": "Going to the river",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "reka.jpg",
+            "name": "Dmitry Koldun",
+            "age": 38,
+            "description":  "Belarusian singer, poet and composer, winner of the project Star Factory-6, Eurovision participant",
+            "photo": "dmitriyKoldun.jpg",
+            "avatar": "/dmitriyKoldun/ava.jpg",
             "id": 5,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/Yrdipo5FSOU?si=FOJbOAlH908Bjo5A",
+            "galerrey1": "/public/photos/personsPages/dmitriyKoldun/1.jpg",
+            "galerrey2": "/public/photos/personsPages/dmitriyKoldun/2.jpeg",
+            "galerrey3": "/public/photos/personsPages/dmitriyKoldun/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d150505.31375908336!2d27.428561540984575!3d53.88472951350763!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46dbcfd35b1e6ad3%3A0xb61b853ddb570d9!2z0JzQuNC90YHQug!5e0!3m2!1sru!2sby!4v1700958084478!5m2!1sru!2sby",
+            "items": [{
+              "title": "1985-2003",
+              "cardTitle": "Early years",
+              "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+              "cardSubtitle":"Born on June 11, 1985 in Minsk, Belarus",
+              "cardDetailedText": "Born in the family of a geography teacher Tatiana Borisovna Koldun and Alexander Pavlovich Koldun, the elder brother is George Alexandrovich Koldun. As a child, he was fond of music, played with his band called Heavy Wheel Plow. The repertoire of the guitar trio consisted mainly of compositions in the Belarusian language. Graduated from the Chemical Faculty of the Belarusian State University. In 2004, he was a participant in the project People's Artist-2 on the TV channel Russia."
+              },
+              {
+                "title": "2004-2006",
+                "cardTitle": "Early career",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Won at the Factory of Stars 6",
+                "cardDetailedText": "In 2004-2005 he worked in the State Concert Orchestra of the Republic of Belarus. He took part in the festivals Molodechno-2005 and Slavic Bazaar in Vitebsk. In 2006, he took part in the Belarusian national selection for Eurovision with the song May be. In the same year he became the winner of the project Factory of Stars-6, after which he became the soloist of the updated composition of the K. G. B. group (Koldun, Gurkova, Barsukov), but soon left the collective. After a joint performance with the Scorpions group of the song Still Loving You, he received an invitation from soloist Klaus Meine to perform this song as part of a joint tour."
+              },
+              {
+                "title": "2007-2009",
+                "cardTitle": "Popularity Set",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Participated in Eurovision",
+                "cardDetailedText": "Dmitry Koldun at the Eurovision Song Contest, 2007. In December 2007 — March 2008, he took part in the project Two Stars on Channel One, paired with Natalia Rudova. In 2008, he played the main character of the rock opera The Star and the Death of Joaquin Murieta robber Joaquin. In 2009, he participated in the project of the Muz TV channel The Star went to..."
+              },
+              {
+                "title": "2009-2012",
+                "cardTitle": "Concerts",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Actively participated in concerts",
+                "cardDetailedText": "On February 9, 2009, together with Alexander Astashenk, he opened the Lizard recording studio. On April 29, 2009, he gave his first solo concert in Korolev. On November 20, 2010, at the Junior Eurovision Song Contest 2010, he performed the final UNICEF anthem A day without war together with the children participating in the contest. In March 2012, the release of the second studio album Night Pilot took place. In June 2012, he took part in the musical project Factory of Stars. Russia-Ukraine."
+              },
+              {
+                "title": "2013-2017",
+                "cardTitle": "New contests",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Actively participated in competitions",
+                "cardDetailedText": "On November 6, 2013, the presentation of the third studio album City of Big Lights took place in the restaurant. On March 2 — June 8, 2014, he took part in the show Exactly on Channel One, reaching the final, but not winning. In 2016, he took part in the new season of the show Exactly on Channel One. In 2017 Dmitry Koldun with the song Friday performed at the opening of the XXVI Festival of arts Slavic Bazaar in Vitebsk."
+              },
+              {
+                "title": "2018-2023",
+                "cardTitle": "Current activities",
+                "url": "https://ru.wikipedia.org/wiki/Колдун,_Дмитрий_Александрович#Биография",
+                "cardSubtitle":"Continues to perform",
+                "cardDetailedText": "In November 2018, he spoke in the DPR at the elections of the head of the republic. Because of this, it was proposed to impose international sanctions against him. In 2021, he released the single All Over Again. In 2022, he was declassified in the show Fiction on Channel One as an accomplished artist, the character Phantom. Left the project in the 8th issue."
+              }
+            ]
         },
         {
-            "name": "Lelouch the British",
+            "name": "Anastasia Prikhodko",
             "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "lelush.jpg",
+            "description":  "Ukrainian singer, participant in the show 'Voice of the Country' and 'Eurovision'. She is also known for her hits 'Light It Up' and 'Mom'.",
+            "photo": "anastasiaPrihodko.jpg",
+            "avatar": "/anastasiaPrihodko/ava.jpg",
             "id": 6,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/fqQwapIxP3U?si=0ahlahjAPbIqYiam",
+            "galerrey1": "/public/photos/personsPages/anastasiaPrihodko/1.jpg", 
+            "galerrey2": "/public/photos/personsPages/anastasiaPrihodko/2.jpg",
+            "galerrey3": "/public/photos/personsPages/anastasiaPrihodko/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d162757.8367562134!2d30.367885864616973!3d50.4021379356011!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40d4cf4ee15a4505%3A0x764931d2170146fe!2z0JrQuNC10LIsINCj0LrRgNCw0LjQvdCwLCAwMjAwMA!5e0!3m2!1sru!2sby!4v1700916337252!5m2!1sru!2sby",
+            "items": [
+                {
+                    "title": "1987-2005",
+                    "cardTitle": "Early years and participation in 'Star Factory'",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Anastasia Prikhodko was born on April 21, 1987 in Kyiv",
+                    "cardDetailedText": "Anastasia Prikhodko was born in Kyiv on April 21, 1987. In her early years, a bright musical talent emerged, which led to participation in the Ukrainian version of the TV show 'Star Factory' in 2005."
+                },
+                {
+                    "title": "2006-2007",
+                    "cardTitle": "After the 'Star Factory' and the beginning of an independent career",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Having completed participation in the 'Star Factory'",
+                    "cardDetailedText": "Having completed her participation in the 'Star Factory' in second place, Anastasia began to build her own musical career. This period became a key step in her independent creative activity."
+                },
+                {
+                    "title": "2008-2013",
+                    "cardTitle": "Participation in Eurovision and subsequent success",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "In 2008, Prikhodko represented Ukraine at Eurovision",
+                    "cardDetailedText": "In 2008, Prikhodko represented Ukraine at Eurovision with the song “Mama”, taking 17th place. This event strengthened her status as a national star, and in the following years she actively released new albums and participated in musical projects."
+                },
+                {
+                    "title": "2014-2016",
+                    "cardTitle": "Personal life and new horizons",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "In 2017, Anastasia got married",
+                    "cardDetailedText": "In 2017, Anastasia married Ukrainian singer Dmitry Shurov, and they had a daughter. This period may have been characterized by a balancing act between family life and creative activity."
+                },
+                {
+                    "title": "2017-2019",
+                    "cardTitle": "Return to creativity and family life",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Anastasia returned to the music scene",
+                    "cardDetailedText": "Perhaps during this period Anastasia returned to the music scene after a break due to family obligations. Family life and creativity merged into one."
+                },
+                {
+                    "title": "2020-2022",
+                    "cardTitle": "Career continuation and new projects",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Anastasia's activity in the musical field",
+                    "cardDetailedText": "In recent years, it has been possible to notice Anastasia’s activity in the musical field, with the release of new projects and participation in concerts. This period was probably marked by the continuation of her creative path and possibly new achievements in her personal life."
+                }
+            ]
         },
         {
-            "name": "Naruto Uzumaki",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "naruto.jpg",
+            "name": "Guzel Khasanova",
+            "age": 30,
+            "description":  "Russian singer, winner of the TV show 'New Star Factory' in 2017.",
+            "photo": "guzelHasanova.jpg",
+            "avatar": "/guzelHasanova/ava.jpg",
             "id": 7,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
-        },
-        {
-            "name": "Gennady Gorin",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "gorin.jpg",
-            "id": 8,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/Q-U5s3Krjfo?si=iu__rCxq3J2SM2fU",
+            "galerrey1": "/public/photos/personsPages/guzelHasanova/1.jpg", 
+            "galerrey2": "/public/photos/personsPages/guzelHasanova/2.jpg",
+            "galerrey3": "/public/photos/personsPages/guzelHasanova/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74467.67069658496!2d48.31439335054747!3d54.31960342792589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x415d36fd6ed9b0d7%3A0x31fc5f9295ebff72!2z0KPQm9Cs0K_QndCe0JLQodCaLTEg0KHRgtCw0L3RhtC40Y8!5e0!3m2!1sru!2sde!4v1700917692837!5m2!1sru!2sde",
+            "items": [
+                {
+                    "title": "1990-2010",
+                    "cardTitle": "Early years and beginning of career",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Guzel Khasanova was born for the first time",
+                    "cardDetailedText": "During this period, Guzel Khasanova probably first appeared and began her journey in the music industry. Perhaps this is the time when her characteristic musical style was formed."
+                },
+                {
+                    "title": "2011-2015",
+                    "cardTitle": "After the 'Star Factory' and the beginning of an independent career",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "Achieved outstanding success in music",
+                    "cardDetailedText": "During these years, Guzel most likely achieved outstanding success, presenting popular compositions or releasing successful albums. Perhaps she also attracted the attention of the audience through participation in musical projects or competitions."
+                },
+                {
+                    "title": "2016-2018",
+                    "cardTitle": "Participation in Eurovision and subsequent success",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "continued to delight her fans with new albums",
+                    "cardDetailedText": "During these years, Guzel continued to delight her fans with new albums and singles, attracting the attention of a wide audience. Perhaps her talent also manifested itself in participation in television projects or at large concert venues."
+                },
+                {
+                    "title": "2019-2020",
+                    "cardTitle": "Personal life and professional moments",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "changes in Guzel's personal life",
+                    "cardDetailedText": "These years may have been marked by changes in Guzel's personal life, if such moments were publicly available. Professionally, this could be a period of new creative challenges and achievements."
+                },
+                {
+                    "title": "2021",
+                    "cardTitle": "Start of a new project",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "start of a new project",
+                    "cardDetailedText": "During this period, the beginning of a new project or a significant event in the career of Guzel Khasanova is possible."
+                },
+                {
+                    "title": "2021-2022",
+                    "cardTitle": "Career continuation and new projects",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
+                    "cardSubtitle": "continued to develop as an artist",
+                    "cardDetailedText": "In recent years, presumably, Guzel Khasanova has continued to develop as an artist, presenting new musical projects and, possibly, participating in music industry events."
+                }
+            ]
         }
     ]
 }
