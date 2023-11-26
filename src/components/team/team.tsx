@@ -17,8 +17,8 @@ const Team = () => {
           name={t("team1-name")}
           work={t("team1-prof")}
           git={"https://github.com/kirillpunko"}
-          inst={"#"}
-          twit={""}
+          inst={"https://www.instagram.com/kirill.punko/"}
+          twit={"https://twitter.com/KirillFrizz"}
         />
         <TeamPerson
           photo={"team2.jpg"}

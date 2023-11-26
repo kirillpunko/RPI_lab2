@@ -7,6 +7,7 @@ import {
 } from "@mui/material";
 import "./personCard.css";
 import { useNavigate } from "react-router-dom";
+import { useTranslation } from "react-i18next";
 
 interface tPerson {
   name: string;
@@ -18,11 +19,13 @@ interface tPerson {
 
 const PersonCard = (person: tPerson) => {
   const navigate = useNavigate();
+  const { t } = useTranslation();
   return (
     <Card id="personCard" sx={{ width: 0.48 }}>
       <CardActionArea
         onClick={() => {
           navigate(`/RPI_lab2/winners/${person.id}`);
+          window.scrollTo(0, 0);
         }}
       >
         <CardMedia
@@ -36,7 +39,8 @@ const PersonCard = (person: tPerson) => {
             {person.name}
           </Typography>
           <Typography gutterBottom variant="h6" component="div">
-            Возраст: {person.age}
+            {t("age")}
+            {person.age}
           </Typography>
           <Typography variant="body1" color="text.secondary">
             {person.description}
