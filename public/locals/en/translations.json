@@ -33,83 +33,149 @@
         {
             "name": "Polina Gagarina",
             "age": 36,
-            "description": "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
+            "description":  "Russian pop singer, film, television, voice-over and dubbing actress, composer and fashion model.",
             "photo": "polinaGagarina.jpg",
             "avatar": "/polinaGagarina/ava.jpg",
             "id": 1,
             "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
+            "galerrey1": "/public/photos/personsPages/polinaGagarina/1.jpeg",
+            "galerrey2": "/public/photos/personsPages/polinaGagarina/2.jpg",
+            "galerrey3": "/public/photos/personsPages/polinaGagarina/3.jpeg",
             "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
-            "items": [
+            "items": [{
+                "title": "1987—2002",
+                "cardTitle": "Childhood and youth",
+                "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                "cardSubtitle":"Born March 27, 1987",
+                "cardDetailedText": "Born on March 27, 1987 in Moscow, she spent her childhood in Greece. At one of the episodes of the show “The Voice” she admitted that she has Mordovian roots. Her mother, a professional dancer, signed a contract with a Greek producer in 1991 to work as a dancer in the Alsos ballet in Athens. Gagarina lived there for three years, and in September 1993 she entered first grade. Returning to Russia for the summer holidays, at the insistence of her grandmother, she stayed with her in Saratov. She entered a music school, performing a Whitney Houston composition in the qualifying round."
+            },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2003",
+                    "cardTitle": "Star Factory",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2003, at the age of 16, Gagarina appeared on the television project “Star Factory-2”.",
+                    "cardDetailedText": "In 2003, at the age of 16, Gagarina appeared on the television project “Star Factory-2”. She performed several songs by Maxim Fadeev and won the competition. Many professionals subsequently recognized Gagarina as the strongest singer of all the winners of the show. However, at the end of the project, Gagarina refused to cooperate with Fadeev."
                 },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2004—2007",
+                    "cardTitle": "The beginning of a career and the album “Ask the Clouds”",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2005, Gagarina signed a contract with the APC Records label.",
+                    "cardDetailedText": "In 2005, Gagarina signed a contract with the APC Records label. In the same year, she took part in the international competition “New Wave”, where she took third place with her original song “Lullaby”. On July 11, the filming of a video for this song took place in Moscow, directed and cinematographed by Vladislav Opelyants."
                 },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2008—2010",
+                    "cardTitle": "album \"About Me\"",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2008, Gagarina recorded the song “Who, why?”",
+                    "cardDetailedText": "On March 11, 2010, the second solo album “About Myself” was released. It included a duet with Dubtsova “To whom, why?”, “Love under the sun” and “Love lives somewhere”. Gagarina described the album as follows: “A new album. A new stage of life, both creative and personal."
                 },
                 {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
-                },
-                {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
-                },
-                {
-                    "title": "1987-2002",
-                    "cardTitle": "childhood and youth",
-                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0#1987%E2%80%942002_%D0%B3%D0%BE%D0%B4%D1%8B:_%D0%B4%D0%B5%D1%82%D1%81%D1%82%D0%B2%D0%BE_%D0%B8_%D1%8E%D0%BD%D0%BE%D1%81%D1%82%D1%8C",
-                    "cardSubtitle": "Born on March 27, 1987 in Moscow",
-                    "cardDetailedText": "Born on March 27, 1987 in Moscow, spent her childhood in Greece . At one of the episodes of the show “ The Voice ” she admitted that she has Mordovian roots. Gagarina lived there for three years, and in September 1993 she entered first grade. Having returned to Russia for the summer holidays, at the insistence of her grandmother she stayed with her in Saratov ."
+                    "title": "2011—2015",
+                    "cardTitle": "Success, third studio album and Eurovision",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%93%D0%B0%D0%B3%D0%B0%D1%80%D0%B8%D0%BD%D0%B0,_%D0%9F%D0%BE%D0%BB%D0%B8%D0%BD%D0%B0_%D0%A1%D0%B5%D1%80%D0%B3%D0%B5%D0%B5%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In August 2011, Gagarina received the Golden Gramophone",
+                    "cardDetailedText": "In January 2012, a new single, “The Performance is Over,” was released, and a video was released at the end of January. In the spring, the series “Katina Love” started on Ukrainian television, the soundtrack to which was Gagarina’s song “Come Back Love.” In June, the TV project “Star Factory” began working again on Channel One (Russia) under the motto “Russia vs Ukraine.” Popular participants in the Russian and Ukrainian editions had to show in song duels whose team was better. Gagarina won three out of four matches, contributing to the victory of the Russian team. Also in the summer, Gagarina became the ambassador of the XXVII World Summer Universiade 2013 in Kazan."
                 }
             ]
         },
         {
-            "name": "Alla Pugacheva",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "allaPugacheva.jpeg",
+            "name": "Nikita Malinin",
+            "age": 42,
+            "description":  "Russian singer, son of the famous Russian artist Alexander Malinin, graduate of Star Factory 3.",
+            "photo": "nikitaMalinin.jpg",
+            "avatar": "/nikitaMalinin/ava.jpg",
             "id": 2,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/o0A4AVjzWCc?si=z4Vb-H5-XdKTzOAG",
+            "galerrey1": "/public/photos/personsPages/nikitaMalinin/1.jpeg",
+            "galerrey2": "/public/photos/personsPages/nikitaMalinin/2.jpg",
+            "galerrey3": "/public/photos/personsPages/nikitaMalinin/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+                "title": "1981—2003",
+                "cardTitle": "Childhood, youth, family",
+                "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                "cardSubtitle":"Born in the fall of 1981",
+                "cardDetailedText": "Nikita was born in the fall of 1981 in the family of singer Alexander Malinin (Vyguzov) and violinist Inna Kurochkina. The parents met in the vocal and instrumental ensemble “Singing Guitars”."
+                },
+                {
+                    "title": "2003",
+                    "cardTitle": "Star Factory",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"In 2003, he appeared on the television project “Star Factory-2”.",
+                    "cardDetailedText": "The performer gained wide fame in 2003, when he became a participant in the third “Star Factory”. He made the decision to try his hand at a vocal competition on his own, without even informing his relatives about it. Only after the casting, which he successfully passed, did he say that he had become a “manufacturer”."
+                },
+                {
+                    "title": "2004—2007",
+                    "cardTitle": "The beginning of a musical career",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"Album \"Flash in the Night\"",
+                    "cardDetailedText": "For the mass listener, Nikita Malinin still remains the performer of the hit “Kitten”, since even the title hit from his debut album “Flash in the Night” (2004) could not repeat the success of the song born within the walls of the “Star Factory”. The debut album was also his last . In 2005, Nikita became the representative of Russia at the international World Best competition, and then took a break because he wanted to figure out what direction he should move in next."
+                },
+                {
+                    "title": "2007—2015",
+                    "cardTitle": "Change of direction",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"The artist began writing club music",
+                    "cardDetailedText": "The image of a romantic “kitten” no longer suited him, the artist began to write club music, collaborated with Boris Moiseev, Dominic Joker, Victoria Daineko, and singer Slava. In Europe in 2007, a joint album between Nikita and DJ Nejtrino was released, and he also recorded several songs with DJ Misha Klein and wrote several songs."
+                },
+                {
+                    "title": "2015—2023",
+                    "cardTitle": "Show “One to One!”",
+                    "url": "https://uznayvse.ru/znamenitosti/biografiya-nikita-malinin.html",
+                    "cardSubtitle":"In 2015, the musician appeared in the popular show “One to One!”",
+                    "cardDetailedText": "In 2015, the musician appeared in the popular show “One to One!” and even embodied the image of Malinin Sr., singing one of his romances. The winner of the show was Ruslan Alekhno, but Nikita also showed a high ability to transform into other artists."
+                }
+            ]
         },
         {
-            "name": "Sergey Mavrodi",
-            "age": 36,
-            "description":  "Российская эстрадная певица, актриса кино, телевидения, озвучивания и дубляжа, композитор и фотомодель.",
-            "photo": "sergey.jpg",
+            "name": "Irina Dubtsova",
+            "age": 41 ,
+            "description":  "Russian singer, poetess and composer, former soloist of the group “Girls”",
+            "photo": "irinaDub.jpg",
+            "avatar": "/irinaDub/ava.jpg",
             "id": 3,
-            "youtube": "https://www.youtube.com/embed/Ir7uQthKCr4?si=zvVVaWeOVDoGSmdA",
-            "galerrey1": "../photos/personsPages/polinaGagarina/1.jpeg",
-            "galerrey2": "../photos/personsPages/polinaGagarina/2.jpg",
-            "galerrey3": "../photos/personsPages/polinaGagarina/3.jpeg",
-            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby"
+            "youtube": "https://www.youtube.com/embed/q2tGQwTl4vk?si=AY0_QD8bVJLlCqcM",
+            "galerrey1": "/public/photos/personsPages/irinaDub/1.jpg",
+            "galerrey2": "/public/photos/personsPages/irinaDub/2.jpg",
+            "galerrey3": "/public/photos/personsPages/irinaDub/3.jpg",
+            "map": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d576054.8249213926!2d37.0228100972741!3d55.6678759578622!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46b54afc73d4b0c9%3A0x3d44d6cc5757cf4c!2z0JzQvtGB0LrQstCwLCDQoNC-0YHRgdC40Y8!5e0!3m2!1sru!2sby!4v1699986272286!5m2!1sru!2sby",
+            "items": [{
+                "title": "1982—2004",
+                "cardTitle": "Early years",
+                "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                "cardSubtitle":"Born in the winter of 1982",
+                "cardDetailedText": "Born on February 14, 1982 in Volgograd. Graduated from music school. When she was 11 years old, her parents created the children's musical group “Jam”, which included Dubtsova. The team has become quite popular in Volgograd. In 1999, through her father’s friend Andrei Pryazhnikov, a disc with the song “Hijo De La Luna” performed by Dubtsova got to the famous producer Igor Matvienko, who was recruiting participants for a new group. The group was called \"Girls\"."
+                },
+                {
+                    "title": "2004—2007",
+                    "cardTitle": "Star Factory",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"On March 12, 2004, “Star Factory 4” started on Channel One, in which Irina Dubtsova took part.",
+                    "cardDetailedText": "On March 12, 2004, “Star Factory 4” started on Channel One, in which Irina Dubtsova took part. She performed duets with such performers as “Mumiy Troll”, Igor Nikolaev, “BI-2”, Alexander Ivanov, “Ivanushki International”, Alexander Rosenbaum, Vladimir Presnyakov Jr., and also performed a song of her own composition “About Him”. On June 8, the final gala concert of “Star Factory 4” took place at the Olimpiysky sports complex, at which the winners of the project were announced; Dubtsova took first place."
+                },
+                {
+                    "title": "2008—2011",
+                    "cardTitle": "Music career",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In 2008, Irina Dubtsova, together with Polina Gagarina, recorded the song “Who? For what?\"",
+                    "cardDetailedText": "In 2008, Irina Dubtsova, together with Polina Gagarina, recorded the song “Who? Why?”, for which the video was shot. The song won the Muz-TV Award 2010 in the Duet of the Year category. In 2010, Dubtsova, Jasmine, Alsou, Tatyana Bulanova and Lera Kudryavtseva recorded a children's lullaby “Sleep, my sunshine” in support of a charity project"
+                },
+                {
+                    "title": "2012—2014",
+                    "cardTitle": "Career continuation",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"In the spring of 2012, Dubtsova recorded the song “Eat. Pray. Love”, words and music for which she wrote herself",
+                    "cardDetailedText": "In the spring of 2012, Dubtsova recorded the song “Eat. Pray. Love,” for which she wrote the words and music herself, and in May a video was released, shot in Kyiv, directed by Alexander Filatovich. In the fall of 2012, the Ukrainian channel STB opened the third season of the Ukrainian version of the British vocal talent show \"X-Factor\", in which Irina Dubtsova took the place of singer Yolka on the jury"
+                },
+                {
+                    "title": "2015—2023",
+                    "cardTitle": "First solo concert",
+                    "url": "https://ru.wikipedia.org/wiki/%D0%94%D1%83%D0%B1%D1%86%D0%BE%D0%B2%D0%B0,_%D0%98%D1%80%D0%B8%D0%BD%D0%B0_%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80%D0%BE%D0%B2%D0%BD%D0%B0",
+                    "cardSubtitle":"At the beginning of 2015, preparations took place for the first solo concert at Crocus City Hall.",
+                    "cardDetailedText": "At the beginning of 2015, preparations took place for the first solo concert at Crocus City Hall, dedicated to the release of the new album and the 10th anniversary of his solo career. The concert took place on March 28. On January 25, Dubtsova presented the solo song “Love Me Long” in the Muz-TV channel program “Party Zone”. On February 3, the premiere of the video for this song took place on the Ello YouTube channel. In February 2016, Irina Dubtsova began filming the new season of the show “Exactly the Same. Battle of the Seasons,” which premiered on September 18 on Channel One. On March 23, Dubtsova presented a new concert program “Love Me Long” at a sold-out solo concert at Crocus City Hall."
+                }
+            ]
         },
         {
             "name": "Victoria Dayneko",
