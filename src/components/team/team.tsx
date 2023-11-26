@@ -24,9 +24,9 @@ const Team = () => {
           photo={"team2.jpg"}
           name={t("team2-name")}
           work={t("team2-prof")}
-          git={"#"}
-          inst={"#"}
-          twit={"#"}
+          git={"https://github.com/tubeamplifierandsound"}
+          inst={"https://www.instagram.com/schwarzenegger/"}
+          twit={"https://www.youtube.com/watch?v=bH9QHujGILk"}
         />
         <TeamPerson
           photo={"team3.jpg"}
