@@ -30,6 +30,7 @@ const DayPerson = () => {
       <CardActionArea
         onClick={() => {
           navigate(`/RPI_lab2/winners/${id + 1}`);
+          window.scrollTo(0, 0);
         }}
       >
         <BlockTitle
